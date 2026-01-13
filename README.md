@@ -115,10 +115,8 @@ contract PanicVault {
     }
 }
 
-Here is the updated README.md. I have refined the language to explicitly state that the "Vault" is simply a standard Shardeum address (like a Ledger or cold wallet) to make it clear that it's a native, secure feature of the Shardeum network.
 
-📋 Action: Replace README.md with this version
-Markdown
+
 
 # 🛡️ Sentinel Protocol
 ### The AI-Powered "Fire Alarm" for Your Crypto Assets
